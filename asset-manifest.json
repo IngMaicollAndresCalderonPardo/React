@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/IngMaicollAndresCalderonPardo/react/static/css/main.d8b4bed2.css",
-    "main.js": "/IngMaicollAndresCalderonPardo/react/static/js/main.ff557286.js",
-    "static/js/453.67280bcc.chunk.js": "/IngMaicollAndresCalderonPardo/react/static/js/453.67280bcc.chunk.js",
-    "static/media/bootstrap-icons.woff?": "/IngMaicollAndresCalderonPardo/react/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
-    "static/media/bootstrap-icons.woff2?": "/IngMaicollAndresCalderonPardo/react/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
-    "static/media/logo.svg": "/IngMaicollAndresCalderonPardo/react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/IngMaicollAndresCalderonPardo/react/index.html",
-    "main.d8b4bed2.css.map": "/IngMaicollAndresCalderonPardo/react/static/css/main.d8b4bed2.css.map",
-    "main.ff557286.js.map": "/IngMaicollAndresCalderonPardo/react/static/js/main.ff557286.js.map",
-    "453.67280bcc.chunk.js.map": "/IngMaicollAndresCalderonPardo/react/static/js/453.67280bcc.chunk.js.map"
+    "main.css": "/React/static/css/main.24b74b0f.css",
+    "main.js": "/React/static/js/main.51eb9bbb.js",
+    "static/js/453.67280bcc.chunk.js": "/React/static/js/453.67280bcc.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/React/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/bootstrap-icons.woff2?": "/React/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "static/media/logo.svg": "/React/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/React/index.html",
+    "main.24b74b0f.css.map": "/React/static/css/main.24b74b0f.css.map",
+    "main.51eb9bbb.js.map": "/React/static/js/main.51eb9bbb.js.map",
+    "453.67280bcc.chunk.js.map": "/React/static/js/453.67280bcc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d8b4bed2.css",
-    "static/js/main.ff557286.js"
+    "static/css/main.24b74b0f.css",
+    "static/js/main.51eb9bbb.js"
   ]
 }
